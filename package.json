@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "@discordjs/builders": "^0.12.0",
+    "@discordjs/rest": "^0.3.0",
+    "discord-api-types": "^0.29.0"
+  }
+}
