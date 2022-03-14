@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
