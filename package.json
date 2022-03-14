@@ -1,5 +1,14 @@
 {
+  "name": "introduction-discordjs",
+  "version": "0.0.1",
+  "author": "Osamu Takiya <takiya@toran.sakura.ne.jp>",
   "devDependencies": {
+    "@discordjs/builders": "^0.12.0",
+    "@discordjs/rest": "^0.3.0",
+    "discord-api-types": "^0.29.0",
     "discord.js": "^13.6.0"
-  }
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "repository": "https://github.com/murasamejo/introduction-discordjs.git"
 }
