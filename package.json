@@ -4,7 +4,7 @@
   "author": "Osamu Takiya <takiya@toran.sakura.ne.jp>",
   "devDependencies": {
     "@discordjs/builders": "1.6.5",
-    "@discordjs/rest": "2.0.0",
+    "@discordjs/rest": "2.0.1",
     "@types/node": "18.17.5",
     "discord-api-types": "^0.37.18",
     "discord.js": "14.12.1",
