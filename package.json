@@ -9,7 +9,7 @@
     "discord-api-types": "^0.37.18",
     "discord.js": "14.14.1",
     "dotenv": "16.4.5",
-    "eslint": "^8.27.0",
+    "eslint": "^9.0.0",
     "prettier": "3.2.5",
     "ts-node": "10.9.2",
     "typescript": "5.4.4"
