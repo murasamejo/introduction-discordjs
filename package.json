@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "author": "Osamu Takiya <takiya@toran.sakura.ne.jp>",
   "devDependencies": {
-    "@discordjs/builders": "1.8.0",
+    "@discordjs/builders": "1.8.1",
     "@discordjs/rest": "2.3.0",
     "@types/node": "20.12.8",
     "discord-api-types": "^0.37.18",
